@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{081b196c-d18b-4aaa-af7b-5dddc0b4e4b9}">
+		<property name="assetPath">
+			<value>SFX/Conejo/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{fe7a676c-8c3e-4d16-a222-e87da1317484}</destination>
+		</relationship>
+	</object>
+</objects>

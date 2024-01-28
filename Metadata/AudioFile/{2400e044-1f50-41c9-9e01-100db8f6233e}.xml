@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{2400e044-1f50-41c9-9e01-100db8f6233e}">
+		<property name="assetPath">
+			<value>SFX/Animales/SFX_animales_babuino_01.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{fe7a676c-8c3e-4d16-a222-e87da1317484}</destination>
+		</relationship>
+	</object>
+</objects>
